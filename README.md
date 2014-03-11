@@ -1,4 +1,4 @@
 WorkoutTracker
 ==============
 
-Android application for tracking your workout profress
+Android application for tracking your workout progress
